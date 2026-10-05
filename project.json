@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_XZ2ioB9G637nlEJGbyV6KZS4PwXJ",
+  "orgId": "team_fkqaKcGE0VTtP8HCOqFceoqj",
+  "projectName": "detektif-ide-pokok",
+  "settings": {
+    "createdAt": 1791125167650,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
